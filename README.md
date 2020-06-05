@@ -1,0 +1,3 @@
+[![Build Status](https://travis-ci.org/globalbioticinteractions/rskm-owlpellet.svg)](https://travis-ci.org/globalbioticinteractions/rskm-owlpellet) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/rskm-owlpellet)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/rskm-owlpellet) 
+
+Configuration to help make the Frier D (2020): Royal Saskatchewan Museum - Owl Pellet Collection. v2.1. Royal Saskatchewan Museum. Dataset/Occurrence. https://doi.org/10.5886/f0xsbu data available through Global Biotic Interactions (GloBI, http://globalbioticinteractions.org).
